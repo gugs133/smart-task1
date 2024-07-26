@@ -71,4 +71,4 @@ for (let i = 1; i<34; i++){
     console.log(i)
     sum += i;
 }
-console.log('SUM', sum)
+console.log('SUM', sum);
