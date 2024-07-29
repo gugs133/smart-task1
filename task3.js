@@ -118,7 +118,7 @@ let object = {
     }
 }
 
-console.log(firstName,lastName)
+console.log(firstName,lastName);
 
 
 
